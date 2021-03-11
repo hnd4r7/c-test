@@ -3,6 +3,11 @@
         "stdio.h": "c",
         "cdefs.h": "c",
         "limits.h": "c",
-        "KRX70800.C": "cpp"
+        "KRX70800.C": "cpp",
+        "wait.h": "c",
+        "unistd.h": "c",
+        "types.h": "c",
+        "foo.h": "c",
+        "ctype.h": "c"
     }
 }
