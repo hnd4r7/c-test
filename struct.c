@@ -13,5 +13,7 @@ main()
     for (hp = x; hp < &x[5]; hp++){
         printf("%ld\n", hp - x);
     }
+
+    struct h hx = {1,2,3};
     return 0;
 }
